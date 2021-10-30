@@ -1,2 +1,2 @@
-# reimaginging-horiseon
+# reimagining-horiseon
 Refactoring Horiseon website to make it more accessible
