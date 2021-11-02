@@ -4,14 +4,15 @@ reimagining-horiseon
 ## Project Description
 
 * My goal is to refactoring the Horiseon website homepage to make it more accessible.The homepage of Horiseon is currently not meeting accessibility standards or search engine optimization. 
-* I will refactor the existing code without changing what the code does. 
-* The technology I used for refactoring the code in this project includes: VSCode, GitHub, and Git Bash. 
+* I refactored the existing code without changing what the code does. 
+* The technology I used for refactoring the code in this project includes: VSCode. 
 * The code to evaluate includes CSS and HTML.
 
 ## Project Homepage
-
+https://kimberlym4488.github.io/reimagining-horiseon/
 
 ## Project documentation URL
+https://github.com/kimberlym4488/reimagining-horiseon/issues/1
 
 ## Author Name
 Kim Moran
@@ -29,5 +30,8 @@ The following features have been updated:
 > * Repetitive CSS elements and selectors aggregated.
 >    * Comments added to css file as to where and why the changes referenced above were made.
 
-## Project Preview
-![The Horiseon webpage meets accessibility standards, has clean css, semantic html, an updated title, and working links.](.)
+## Project Preview (Click Image to see live page)
+
+[![projectPreview-Complete](https://user-images.githubusercontent.com/92805933/139871425-a6966946-d798-4b78-9d8b-786488c086da.png)](https://kimberlym4488.github.io/reimagining-horiseon/)
+
+
