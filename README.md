@@ -3,7 +3,7 @@ reimagining-horiseon
 
 ## Project Description
 
-* My goal is to refactoring the Horiseon website homepage to make it more accessible.The homepage of Horiseon is currently not meeting accessibility standards or search engine optimization. 
+* My goal is to refactor the Horiseon website homepage to make it more accessible.The homepage of Horiseon is currently not meeting accessibility standards or search engine optimization. 
 * I refactored the existing code without changing what the code does. 
 * The technology I used for refactoring the code in this project includes: VSCode. 
 * The code to evaluate includes CSS and HTML.
